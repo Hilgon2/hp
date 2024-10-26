@@ -45,6 +45,7 @@ async function initialize() {
 }
 
 onMounted(async () => {
+  // useFetch would return null without the nextTick?
   nextTick(() => {
     initialize();
   });
@@ -62,16 +63,18 @@ function formatPrice(price: string) {
     return null;
   }
 
+  // Add a dot for every 3 numbers
   return price.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1.');
 }
 
-function filterHouses(attributes, test) {
-  console.log(map.value.getBounds());
+function filterHouses(zoom) {
+  // After zooming or dragging, the list of houses should only contain the houses seen on the map. That was the idea using the shownHouses variable
+  console.log(zoom);
 }
 </script>
 
 <template>
-  <section class="houses-container absolute bg-white px-6">
+  <section class="houses-container absolute bg-white px-6 overflow-y-auto">
     <h1 class="mt-4">{{ shownHouses.length }} koopwoningen gevonden</h1>
     <hr class="mb-4" />
     <div class="flex flex-col">
@@ -128,7 +131,6 @@ function filterHouses(attributes, test) {
 .houses-container {
   top: 60px;
   z-index: 999;
-  overflow-y: auto;
   max-height: calc(100vh - 60px);
   margin-left: -1.5rem;
 }
