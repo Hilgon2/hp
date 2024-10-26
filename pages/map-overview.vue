@@ -4,6 +4,7 @@ import type { HpHouse } from '~/types/house.model';
 import * as L from 'leaflet';
 globalThis.L = L;
 import { LMap, LTileLayer, LControlZoom } from '@vue-leaflet/vue-leaflet';
+import 'leaflet.markercluster';
 
 const map = ref(null) as any;
 const center = ref<number[]>();
