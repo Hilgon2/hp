@@ -1,0 +1,2216 @@
+{
+    "data": [
+        {
+            "type": "property",
+            "id": 61982,
+            "attributes": {
+                "street": "Keizersgracht",
+                "houseNumber": 698,
+                "houseNumberExt": "H",
+                "houseNumberFull": "698-H",
+                "postcode": "1017EV",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.363266,
+                "longitude": 4.89482737,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 215,
+                "plotSize": null,
+                "volume": 753,
+                "buildYear": 1690,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1017ev/keizersgracht/698-h",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000480928",
+                    "bagBuildingId": "0363100012167490",
+                    "bagObjectId": "0363010000996129"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1017/ev/698-h/id_61982_661690366390_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP EN TE HUUR",
+                    "lastModifiedAt": "2024-03-22 07:12:02",
+                    "salePrice": null,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1017ev/698/h",
+                "related": "http://api.huispedia.nl/v2/properties/61982"
+            }
+        },
+        {
+            "type": "property",
+            "id": 68244,
+            "attributes": {
+                "street": "Falckstraat",
+                "houseNumber": 47,
+                "houseNumberExt": "A",
+                "houseNumberFull": "47-A",
+                "postcode": "1017VV",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.36071,
+                "longitude": 4.89749575,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 147,
+                "plotSize": null,
+                "volume": 449,
+                "buildYear": 1890,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1017vv/falckstraat/47-a",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200012073069",
+                    "bagBuildingId": "0363100012171730",
+                    "bagObjectId": "0363010012072770"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1017/vv/47-a/id_68244_01708658737_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP EN TE HUUR",
+                    "lastModifiedAt": "2024-02-21 11:54:02",
+                    "salePrice": null,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1017vv/47/a",
+                "related": "http://api.huispedia.nl/v2/properties/68244"
+            }
+        },
+        {
+            "type": "property",
+            "id": 191437,
+            "attributes": {
+                "street": "Admiraal De Ruijterweg",
+                "houseNumber": 482,
+                "houseNumberExt": "3",
+                "houseNumberFull": "482-3",
+                "postcode": "1055NH",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.38467,
+                "longitude": 4.84793949,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 113,
+                "plotSize": null,
+                "volume": 371,
+                "buildYear": 1934,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "E",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1055nh/admiraal-de-ruijterweg/482-3",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000023491",
+                    "bagBuildingId": "0363100012122012",
+                    "bagObjectId": "0363010000560642"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1055/nh/482-3/id_191437_891695370059_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP EN TE HUUR",
+                    "lastModifiedAt": "2024-01-30 02:01:02",
+                    "salePrice": null,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1055nh/482/3",
+                "related": "http://api.huispedia.nl/v2/properties/191437"
+            }
+        },
+        {
+            "type": "property",
+            "id": 345030,
+            "attributes": {
+                "street": "Van Tuyll van Serooskerkenweg",
+                "houseNumber": 33,
+                "houseNumberExt": "H",
+                "houseNumberFull": "33-H",
+                "postcode": "1076JB",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.344444,
+                "longitude": 4.86267757,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 89,
+                "plotSize": null,
+                "volume": 305,
+                "buildYear": 1930,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "D",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1076jb/van-tuyll-van-serooskerkenweg/33-h",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000306224",
+                    "bagBuildingId": "0363100012148531",
+                    "bagObjectId": "0363010000847941"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1076/jb/33-h/id_345030_721694003829_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP EN TE HUUR",
+                    "lastModifiedAt": "2023-11-16 05:11:04",
+                    "salePrice": null,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1076jb/33/h",
+                "related": "http://api.huispedia.nl/v2/properties/345030"
+            }
+        },
+        {
+            "type": "property",
+            "id": 352204,
+            "attributes": {
+                "street": "Minervalaan",
+                "houseNumber": 72,
+                "houseNumberExt": "H",
+                "houseNumberFull": "72-H",
+                "postcode": "1077PG",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.345806,
+                "longitude": 4.87218571,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 131,
+                "plotSize": null,
+                "volume": 502,
+                "buildYear": 1930,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "C",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1077pg/minervalaan/72-h",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000205209",
+                    "bagBuildingId": "0363100012071364",
+                    "bagObjectId": "0363010000744569"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1077/pg/72-h/id_352204_321690527618_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP EN TE HUUR",
+                    "lastModifiedAt": "2024-03-13 11:47:02",
+                    "salePrice": null,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1077pg/72/h",
+                "related": "http://api.huispedia.nl/v2/properties/352204"
+            }
+        },
+        {
+            "type": "property",
+            "id": 23351495,
+            "attributes": {
+                "street": "Dam",
+                "houseNumber": 5,
+                "houseNumberExt": "L",
+                "houseNumberFull": "5-L",
+                "postcode": "1012JS",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.37307,
+                "longitude": 4.89425468,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 117,
+                "plotSize": null,
+                "volume": 367,
+                "buildYear": 2019,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "C",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012js/dam/5-l",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200012111815",
+                    "bagBuildingId": "0363100012168116",
+                    "bagObjectId": "0363010012110101"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/js/5-l/id_23351495_301698893418_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP EN TE HUUR",
+                    "lastModifiedAt": "2024-01-12 08:21:01",
+                    "salePrice": null,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012js/5/l",
+                "related": "http://api.huispedia.nl/v2/properties/23351495"
+            }
+        },
+        {
+            "type": "property",
+            "id": 29176973,
+            "attributes": {
+                "street": "Van Gamerenstraat",
+                "houseNumber": 4,
+                "houseNumberExt": "",
+                "houseNumberFull": "4",
+                "postcode": "1087VN",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.35107,
+                "longitude": 5.0144496,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 125,
+                "plotSize": null,
+                "volume": 400,
+                "buildYear": 2023,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1087vn/van-gamerenstraat/4",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200012147931",
+                    "bagBuildingId": "0363100012252781",
+                    "bagObjectId": "0363010012145943"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1087/vn/4/id_29176973_371707184889_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP EN TE HUUR",
+                    "lastModifiedAt": "2024-02-19 11:07:03",
+                    "salePrice": null,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1087vn/4",
+                "related": "http://api.huispedia.nl/v2/properties/29176973"
+            }
+        },
+        {
+            "type": "property",
+            "id": 161,
+            "attributes": {
+                "street": "Prins Hendrikkade",
+                "houseNumber": 127,
+                "houseNumberExt": "E",
+                "houseNumberFull": "127-E",
+                "postcode": "1011AN",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.373913,
+                "longitude": 4.90504742,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 105,
+                "plotSize": null,
+                "volume": 273,
+                "buildYear": 1906,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011an/prins-hendrikkade/127-e",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000456745",
+                    "bagBuildingId": "0363100012170516",
+                    "bagObjectId": "0363010000794698"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/an/127-e/id_161_261692686077_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-08-17 11:45:02",
+                    "salePrice": 800000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011an/127/e",
+                "related": "http://api.huispedia.nl/v2/properties/161"
+            }
+        },
+        {
+            "type": "property",
+            "id": 288,
+            "attributes": {
+                "street": "Buiten Bantammerstraat",
+                "houseNumber": 17,
+                "houseNumberExt": "",
+                "houseNumberFull": "17",
+                "postcode": "1011AX",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.373882,
+                "longitude": 4.904196,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 108,
+                "plotSize": null,
+                "volume": 358,
+                "buildYear": 1650,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011ax/buiten-bantammerstraat/17",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000059748",
+                    "bagBuildingId": "0363100012165750",
+                    "bagObjectId": "0363010000597512"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/ax/17/id_288_181695172748_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-12-04 09:15:02",
+                    "salePrice": 950000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011ax/17",
+                "related": "http://api.huispedia.nl/v2/properties/288"
+            }
+        },
+        {
+            "type": "property",
+            "id": 388,
+            "attributes": {
+                "street": "Binnenkant",
+                "houseNumber": 9,
+                "houseNumberExt": "",
+                "houseNumberFull": "9",
+                "postcode": "1011BG",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.374012,
+                "longitude": 4.90349436,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 50,
+                "plotSize": null,
+                "volume": 110,
+                "buildYear": 1927,
+                "houseType": "Woonhuis",
+                "houseSubType": "Vrijstaande woning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011bg/binnenkant/9",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000517571",
+                    "bagBuildingId": "",
+                    "bagObjectId": "0363020001030160"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/bg/9/id_388_851693241905_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-08-28 04:51:02",
+                    "salePrice": 299000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011bg/9",
+                "related": "http://api.huispedia.nl/v2/properties/388"
+            }
+        },
+        {
+            "type": "property",
+            "id": 1229,
+            "attributes": {
+                "street": "Nieuwe Jonkerstraat",
+                "houseNumber": 23,
+                "houseNumberExt": "",
+                "houseNumberFull": "23",
+                "postcode": "1011CM",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.373543,
+                "longitude": 4.90237856,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 75,
+                "plotSize": 38,
+                "volume": 268,
+                "buildYear": 1997,
+                "houseType": "Woonhuis",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011cm/nieuwe-jonkerstraat/23",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000470141",
+                    "bagBuildingId": "0363100012181796",
+                    "bagObjectId": "0363010000982211"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/cm/23/id_1229_361697817451_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-15 08:46:01",
+                    "salePrice": 775000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011cm/23",
+                "related": "http://api.huispedia.nl/v2/properties/1229"
+            }
+        },
+        {
+            "type": "property",
+            "id": 1433,
+            "attributes": {
+                "street": "Recht Boomssloot",
+                "houseNumber": 47,
+                "houseNumberExt": "C",
+                "houseNumberFull": "47-C",
+                "postcode": "1011CT",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.372665,
+                "longitude": 4.90297556,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 88,
+                "plotSize": null,
+                "volume": 256,
+                "buildYear": 1702,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011ct/recht-boomssloot/47-c",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000456789",
+                    "bagBuildingId": "0363100012182868",
+                    "bagObjectId": "0363010000955265"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/ct/47-c/id_1433_771709742752_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-06 04:20:02",
+                    "salePrice": 825000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011ct/47/c",
+                "related": "http://api.huispedia.nl/v2/properties/1433"
+            }
+        },
+        {
+            "type": "property",
+            "id": 1569,
+            "attributes": {
+                "street": "Recht Boomssloot",
+                "houseNumber": 99,
+                "houseNumberExt": "H",
+                "houseNumberFull": "99-H",
+                "postcode": "1011CZ",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.371826,
+                "longitude": 4.90439463,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 61,
+                "plotSize": null,
+                "volume": 242,
+                "buildYear": 1827,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "E",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011cz/recht-boomssloot/99-h",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000453895",
+                    "bagBuildingId": "0363100012182074",
+                    "bagObjectId": "0363010000788841"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/cz/99-h/id_1569_531693271714_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-07 11:22:02",
+                    "salePrice": 500000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011cz/99/h",
+                "related": "http://api.huispedia.nl/v2/properties/1569"
+            }
+        },
+        {
+            "type": "property",
+            "id": 2487,
+            "attributes": {
+                "street": "Oosterdokskade",
+                "houseNumber": 115,
+                "houseNumberExt": "",
+                "houseNumberFull": "115",
+                "postcode": "1011DL",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.37595,
+                "longitude": 4.907301,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 200,
+                "plotSize": null,
+                "volume": 500,
+                "buildYear": 2012,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011dl/oosterdokskade/115",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200012079455",
+                    "bagBuildingId": "0363100012237408",
+                    "bagObjectId": "0363010012078535"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/dl/115/id_2487_31704992792_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-24 11:11:01",
+                    "salePrice": 2000000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011dl/115",
+                "related": "http://api.huispedia.nl/v2/properties/2487"
+            }
+        },
+        {
+            "type": "property",
+            "id": 2505,
+            "attributes": {
+                "street": "Oosterdokskade",
+                "houseNumber": 127,
+                "houseNumberExt": "",
+                "houseNumberFull": "127",
+                "postcode": "1011DL",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.376141,
+                "longitude": 4.90701246,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 193,
+                "plotSize": null,
+                "volume": 598,
+                "buildYear": 2012,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011dl/oosterdokskade/127",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200012080814",
+                    "bagBuildingId": "0363100012237408",
+                    "bagObjectId": "0363010012079768"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/dl/127/id_2505_981698307698_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-05-19 11:20:03",
+                    "salePrice": 1950000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011dl/127",
+                "related": "http://api.huispedia.nl/v2/properties/2505"
+            }
+        },
+        {
+            "type": "property",
+            "id": 2508,
+            "attributes": {
+                "street": "Oosterdokskade",
+                "houseNumber": 129,
+                "houseNumberExt": "",
+                "houseNumberFull": "129",
+                "postcode": "1011DL",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.375881,
+                "longitude": 4.907615,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 190,
+                "plotSize": null,
+                "volume": 687,
+                "buildYear": 2012,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011dl/oosterdokskade/129",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200011943246",
+                    "bagBuildingId": "0363100012237408",
+                    "bagObjectId": "0363010011942920"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/dl/129/id_2508_21692274455_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-10-30 11:43:02",
+                    "salePrice": 2275000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011dl/129",
+                "related": "http://api.huispedia.nl/v2/properties/2508"
+            }
+        },
+        {
+            "type": "property",
+            "id": 3642,
+            "attributes": {
+                "street": "Waalsteeg",
+                "houseNumber": 9,
+                "houseNumberExt": "",
+                "houseNumberFull": "9",
+                "postcode": "1011ER",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.37418,
+                "longitude": 4.902201,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 127,
+                "plotSize": 43,
+                "volume": 279,
+                "buildYear": 1780,
+                "houseType": "Woonhuis",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "APLUSPLUS",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011er/waalsteeg/9",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000419034",
+                    "bagBuildingId": "0363100012183098",
+                    "bagObjectId": "0363010000860035"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/er/9/id_3642_411696986559_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-01-22 11:43:01",
+                    "salePrice": 1200000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011er/9",
+                "related": "http://api.huispedia.nl/v2/properties/3642"
+            }
+        },
+        {
+            "type": "property",
+            "id": 3903,
+            "attributes": {
+                "street": "Koningsstraat",
+                "houseNumber": 48,
+                "houseNumberExt": "",
+                "houseNumberFull": "48",
+                "postcode": "1011EW",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.372166,
+                "longitude": 4.902012,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 216,
+                "plotSize": null,
+                "volume": 548,
+                "buildYear": 1906,
+                "houseType": "Woonhuis",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011ew/koningsstraat/48",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000171360",
+                    "bagBuildingId": "0363100012171398",
+                    "bagObjectId": "0363010000710354"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/ew/48/id_3903_851695675136_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-11-03 03:28:01",
+                    "salePrice": 1780000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011ew/48",
+                "related": "http://api.huispedia.nl/v2/properties/3903"
+            }
+        },
+        {
+            "type": "property",
+            "id": 4119,
+            "attributes": {
+                "street": "Korte Koningsstraat",
+                "houseNumber": 30,
+                "houseNumberExt": "",
+                "houseNumberFull": "30",
+                "postcode": "1011GA",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.371437,
+                "longitude": 4.90342951,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 159,
+                "plotSize": 45,
+                "volume": 547,
+                "buildYear": 1886,
+                "houseType": "Woonhuis",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "C",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011ga/korte-koningsstraat/30",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000514156",
+                    "bagBuildingId": "0363100012171405",
+                    "bagObjectId": "0363010001026172"
+                },
+                "image": {
+                    "href": "https://static.huispedia.nl/gsv-service/MTAxMUdBKzMwKzUyLjM3MTQzNys0LjkwMzQyOTUxK3ByZW1pdW0="
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-14 10:40:02",
+                    "salePrice": 1395000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011ga/30",
+                "related": "http://api.huispedia.nl/v2/properties/4119"
+            }
+        },
+        {
+            "type": "property",
+            "id": 4311,
+            "attributes": {
+                "street": "Keizersstraat",
+                "houseNumber": 32,
+                "houseNumberExt": "",
+                "houseNumberFull": "32",
+                "postcode": "1011GD",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.371593,
+                "longitude": 4.902018,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 89,
+                "plotSize": 44,
+                "volume": 475,
+                "buildYear": 1785,
+                "houseType": "Woonhuis",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011gd/keizersstraat/32",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000161661",
+                    "bagBuildingId": "0363100012182692",
+                    "bagObjectId": "0363010000700275"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/gd/32/id_4311_801709328022_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-01 06:55:02",
+                    "salePrice": 1050000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011gd/32",
+                "related": "http://api.huispedia.nl/v2/properties/4311"
+            }
+        },
+        {
+            "type": "property",
+            "id": 4392,
+            "attributes": {
+                "street": "Korte Keizersstraat",
+                "houseNumber": 8,
+                "houseNumberExt": "H",
+                "houseNumberFull": "8-H",
+                "postcode": "1011GH",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.371262,
+                "longitude": 4.902624,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 73,
+                "plotSize": null,
+                "volume": 280,
+                "buildYear": 1803,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011gh/korte-keizersstraat/8-h",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000174772",
+                    "bagBuildingId": "0363100012171393",
+                    "bagObjectId": "0363010000713811"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/gh/8-h/id_4392_01707727953_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-02-12 08:09:02",
+                    "salePrice": 625000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011gh/8/h",
+                "related": "http://api.huispedia.nl/v2/properties/4392"
+            }
+        },
+        {
+            "type": "property",
+            "id": 5157,
+            "attributes": {
+                "street": "Krom Boomssloot",
+                "houseNumber": 59,
+                "houseNumberExt": "F",
+                "houseNumberFull": "59-F",
+                "postcode": "1011GS",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.371044,
+                "longitude": 4.902171,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 50,
+                "plotSize": null,
+                "volume": 140,
+                "buildYear": 1723,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011gs/krom-boomssloot/59-f",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000526246",
+                    "bagBuildingId": "0363100012571632",
+                    "bagObjectId": "0363010001040727"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/gs/59-f/id_5157_211709720177_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-06 09:49:02",
+                    "salePrice": 469000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011gs/59/f",
+                "related": "http://api.huispedia.nl/v2/properties/5157"
+            }
+        },
+        {
+            "type": "property",
+            "id": 6834,
+            "attributes": {
+                "street": "Groenburgwal",
+                "houseNumber": 1,
+                "houseNumberExt": "",
+                "houseNumberFull": "1",
+                "postcode": "1011HR",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.36956,
+                "longitude": 4.899177,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 256,
+                "plotSize": 78,
+                "volume": 972,
+                "buildYear": 1906,
+                "houseType": "Woonhuis",
+                "houseSubType": "Hoekwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011hr/groenburgwal/1",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000414684",
+                    "bagBuildingId": "0363100012178147",
+                    "bagObjectId": "0363010000651444"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/hr/1/id_6834_521698424894_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-14 11:55:01",
+                    "salePrice": 2220000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011hr/1",
+                "related": "http://api.huispedia.nl/v2/properties/6834"
+            }
+        },
+        {
+            "type": "property",
+            "id": 7167,
+            "attributes": {
+                "street": "Groenburgwal",
+                "houseNumber": 65,
+                "houseNumberExt": "B",
+                "houseNumberFull": "65-B",
+                "postcode": "1011HT",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.367981,
+                "longitude": 4.897829,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 170,
+                "plotSize": null,
+                "volume": 482,
+                "buildYear": 1900,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "C",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011ht/groenburgwal/65-b",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000454311",
+                    "bagBuildingId": "0363100012178370",
+                    "bagObjectId": "0363010000953392"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/ht/65-b/id_7167_351704325231_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-01-03 11:10:02",
+                    "salePrice": 1350000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011ht/65/b",
+                "related": "http://api.huispedia.nl/v2/properties/7167"
+            }
+        },
+        {
+            "type": "property",
+            "id": 7935,
+            "attributes": {
+                "street": "Zwanenburgwal",
+                "houseNumber": 44,
+                "houseNumberExt": "",
+                "houseNumberFull": "44",
+                "postcode": "1011JD",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.368919,
+                "longitude": 4.89968157,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 70,
+                "plotSize": null,
+                "volume": 154,
+                "buildYear": 1914,
+                "houseType": "Woonhuis",
+                "houseSubType": "Vrijstaande woning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011jd/zwanenburgwal/44",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000393481",
+                    "bagBuildingId": "",
+                    "bagObjectId": "0363020000881621"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/jd/44/preview_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-04 04:14:01",
+                    "salePrice": 595000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011jd/44",
+                "related": "http://api.huispedia.nl/v2/properties/7935"
+            }
+        },
+        {
+            "type": "property",
+            "id": 8724,
+            "attributes": {
+                "street": "Raamgracht",
+                "houseNumber": 35,
+                "houseNumberExt": "G",
+                "houseNumberFull": "35-G",
+                "postcode": "1011KJ",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.369686,
+                "longitude": 4.89958858,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 40,
+                "plotSize": 43,
+                "volume": 129,
+                "buildYear": 1995,
+                "houseType": "Woonhuis",
+                "houseSubType": "Vrijstaande woning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011kj/raamgracht/35-g",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000512160",
+                    "bagBuildingId": "",
+                    "bagObjectId": "0363020001025234"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/kj/35-g/id_8724_441691308890_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-10-30 12:11:02",
+                    "salePrice": 395000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011kj/35/g",
+                "related": "http://api.huispedia.nl/v2/properties/8724"
+            }
+        },
+        {
+            "type": "property",
+            "id": 8973,
+            "attributes": {
+                "street": "Oudeschans",
+                "houseNumber": 69,
+                "houseNumberExt": "B",
+                "houseNumberFull": "69-B",
+                "postcode": "1011KW",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.370422,
+                "longitude": 4.903382,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 149,
+                "plotSize": null,
+                "volume": 409,
+                "buildYear": 1906,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011kw/oudeschans/69-b",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000227880",
+                    "bagBuildingId": "0363100012571642",
+                    "bagObjectId": "0363010000767781"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/kw/69-b/id_8973_811708859711_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-02-25 11:14:02",
+                    "salePrice": 825000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011kw/69/b",
+                "related": "http://api.huispedia.nl/v2/properties/8973"
+            }
+        },
+        {
+            "type": "property",
+            "id": 8999,
+            "attributes": {
+                "street": "Oudeschans",
+                "houseNumber": 79,
+                "houseNumberExt": "R",
+                "houseNumberFull": "79-R",
+                "postcode": "1011KW",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.370125,
+                "longitude": 4.90315056,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 66,
+                "plotSize": null,
+                "volume": 241,
+                "buildYear": 1848,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011kw/oudeschans/79-r",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000455879",
+                    "bagBuildingId": "0363100012182524",
+                    "bagObjectId": "0363010000953802"
+                },
+                "image": {
+                    "href": "https://static.huispedia.nl/gsv-service/MTAxMUtXKzc5LVIrNTIuMzcwMTI1KzQuOTAzMTUwNTYrcHJlbWl1bQ=="
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-22 12:30:02",
+                    "salePrice": 650000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011kw/79/r",
+                "related": "http://api.huispedia.nl/v2/properties/8999"
+            }
+        },
+        {
+            "type": "property",
+            "id": 9064,
+            "attributes": {
+                "street": "Oudeschans",
+                "houseNumber": 26,
+                "houseNumberExt": "K",
+                "houseNumberFull": "26-K",
+                "postcode": "1011LB",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.371407,
+                "longitude": 4.90437365,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 227,
+                "plotSize": 247,
+                "volume": 604,
+                "buildYear": 1943,
+                "houseType": "Woonhuis",
+                "houseSubType": "Vrijstaande woning",
+                "energyLabel": "G",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011lb/oudeschans/26-k",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000520766",
+                    "bagBuildingId": "",
+                    "bagObjectId": "0363020001036143"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/lb/26-k/id_9064_121704988837_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-01-11 03:32:01",
+                    "salePrice": 1475000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011lb/26/k",
+                "related": "http://api.huispedia.nl/v2/properties/9064"
+            }
+        },
+        {
+            "type": "property",
+            "id": 9384,
+            "attributes": {
+                "street": "Nieuwe Uilenburgerstraat",
+                "houseNumber": 19,
+                "houseNumberExt": "N",
+                "houseNumberFull": "19-N",
+                "postcode": "1011LM",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.37093,
+                "longitude": 4.906886,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 51,
+                "plotSize": null,
+                "volume": 154,
+                "buildYear": 1906,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011lm/nieuwe-uilenburgerstraat/19-n",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000218419",
+                    "bagBuildingId": "0363100012164957",
+                    "bagObjectId": "0363010000758080"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/lm/19-n/id_9384_421691287966_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-02-26 11:52:01",
+                    "salePrice": 375000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011lm/19/n",
+                "related": "http://api.huispedia.nl/v2/properties/9384"
+            }
+        },
+        {
+            "type": "property",
+            "id": 9879,
+            "attributes": {
+                "street": "Rapenburgerstraat",
+                "houseNumber": 8,
+                "houseNumberExt": "",
+                "houseNumberFull": "8",
+                "postcode": "1011MK",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.369614,
+                "longitude": 4.908765,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 84,
+                "plotSize": null,
+                "volume": 255,
+                "buildYear": 1998,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011mk/rapenburgerstraat/8",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000464328",
+                    "bagBuildingId": "0363100012170563",
+                    "bagObjectId": "0363010000981096"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/mk/8/id_9879_691702649304_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-12-15 01:34:04",
+                    "salePrice": 655000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011mk/8",
+                "related": "http://api.huispedia.nl/v2/properties/9879"
+            }
+        },
+        {
+            "type": "property",
+            "id": 10360,
+            "attributes": {
+                "street": "Valkenburgerstraat",
+                "houseNumber": 186,
+                "houseNumberExt": "X",
+                "houseNumberFull": "186-X",
+                "postcode": "1011NC",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.369324,
+                "longitude": 4.90559626,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 84,
+                "plotSize": null,
+                "volume": 257,
+                "buildYear": 2007,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011nc/valkenburgerstraat/186-x",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000517056",
+                    "bagBuildingId": "0363100012170313",
+                    "bagObjectId": "0363010001029935"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/nc/186-x/id_10360_941708782918_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-02-24 01:54:01",
+                    "salePrice": 690000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011nc/186/x",
+                "related": "http://api.huispedia.nl/v2/properties/10360"
+            }
+        },
+        {
+            "type": "property",
+            "id": 10415,
+            "attributes": {
+                "street": "Valkenburgerstraat",
+                "houseNumber": 194,
+                "houseNumberExt": "Z",
+                "houseNumberFull": "194-Z",
+                "postcode": "1011NC",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.369331,
+                "longitude": 4.90489149,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 140,
+                "plotSize": null,
+                "volume": 432,
+                "buildYear": 2007,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011nc/valkenburgerstraat/194-z",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000517111",
+                    "bagBuildingId": "0363100012170314",
+                    "bagObjectId": "0363010001030087"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/nc/194-z/id_10415_571708098160_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-02-16 03:14:02",
+                    "salePrice": 1250000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011nc/194/z",
+                "related": "http://api.huispedia.nl/v2/properties/10415"
+            }
+        },
+        {
+            "type": "property",
+            "id": 10574,
+            "attributes": {
+                "street": "Jodenbreestraat",
+                "houseNumber": 118,
+                "houseNumberExt": "",
+                "houseNumberFull": "118",
+                "postcode": "1011NS",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.368771,
+                "longitude": 4.902592,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 80,
+                "plotSize": null,
+                "volume": 260,
+                "buildYear": 1966,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "D",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011ns/jodenbreestraat/118",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000153502",
+                    "bagBuildingId": "0363100012171991",
+                    "bagObjectId": "0363010000691525"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/ns/118/id_10574_751654015848_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2022-07-11 07:24:31",
+                    "salePrice": 550000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011ns/118",
+                "related": "http://api.huispedia.nl/v2/properties/10574"
+            }
+        },
+        {
+            "type": "property",
+            "id": 10952,
+            "attributes": {
+                "street": "Amstel",
+                "houseNumber": 37,
+                "houseNumberExt": "C",
+                "houseNumberFull": "37-C",
+                "postcode": "1011PV",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.366405,
+                "longitude": 4.90182543,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 44,
+                "plotSize": null,
+                "volume": 151,
+                "buildYear": 1830,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011pv/amstel/37-c",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000029335",
+                    "bagBuildingId": "0363100012171693",
+                    "bagObjectId": "0363010000566555"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/pv/37-c/id_10952_121710304672_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-12 11:58:02",
+                    "salePrice": 435000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011pv/37/c",
+                "related": "http://api.huispedia.nl/v2/properties/10952"
+            }
+        },
+        {
+            "type": "property",
+            "id": 11534,
+            "attributes": {
+                "street": "Prins Hendrikkade",
+                "houseNumber": 163,
+                "houseNumberExt": "",
+                "houseNumberFull": "163",
+                "postcode": "1011TB",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.372017,
+                "longitude": 4.909121,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 155,
+                "plotSize": null,
+                "volume": 487,
+                "buildYear": 1906,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011tb/prins-hendrikkade/163",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000411596",
+                    "bagBuildingId": "",
+                    "bagObjectId": "0363010000783266"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1011/tb/163/id_11534_31701784224_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-12-05 01:27:02",
+                    "salePrice": 1120000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011tb/163",
+                "related": "http://api.huispedia.nl/v2/properties/11534"
+            }
+        },
+        {
+            "type": "property",
+            "id": 11966,
+            "attributes": {
+                "street": "Schippersgracht",
+                "houseNumber": 11,
+                "houseNumberExt": "2",
+                "houseNumberFull": "11-2",
+                "postcode": "1011TS",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.370678,
+                "longitude": 4.91153,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 60,
+                "plotSize": null,
+                "volume": 202,
+                "buildYear": 1882,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "D",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1011ts/schippersgracht/11-2",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200012062428",
+                    "bagBuildingId": "0363100012181570",
+                    "bagObjectId": "0363010012062334"
+                },
+                "image": {
+                    "href": "https://static.huispedia.nl/gsv-service/MTAxMVRTKzExLTIrNTIuMzcwNjc4KzQuOTExNTMrcHJlbWl1bQ=="
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-14 06:59:02",
+                    "salePrice": 475000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1011ts/11/2",
+                "related": "http://api.huispedia.nl/v2/properties/11966"
+            }
+        },
+        {
+            "type": "property",
+            "id": 12851,
+            "attributes": {
+                "street": "Prins Hendrikkade",
+                "houseNumber": 78,
+                "houseNumberExt": "F",
+                "houseNumberFull": "78-F",
+                "postcode": "1012AE",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.376675,
+                "longitude": 4.901243,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 58,
+                "plotSize": null,
+                "volume": 188,
+                "buildYear": 1979,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012ae/prins-hendrikkade/78-f",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000242765",
+                    "bagBuildingId": "0363100012171925",
+                    "bagObjectId": "0363010000783039"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/ae/78-f/id_12851_871696404853_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-09-28 01:45:05",
+                    "salePrice": 450000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012ae/78/f",
+                "related": "http://api.huispedia.nl/v2/properties/12851"
+            }
+        },
+        {
+            "type": "property",
+            "id": 13014,
+            "attributes": {
+                "street": "Oudezijds Kolk",
+                "houseNumber": 13,
+                "houseNumberExt": "2",
+                "houseNumberFull": "13-2",
+                "postcode": "1012AL",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.375919,
+                "longitude": 4.90107536,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 186,
+                "plotSize": null,
+                "volume": 490,
+                "buildYear": 1709,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012al/oudezijds-kolk/13-2",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000219577",
+                    "bagBuildingId": "0363100012182722",
+                    "bagObjectId": "0363010000759311"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/al/13-2/id_13014_663436521710_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-19 11:12:03",
+                    "salePrice": 1150000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012al/13/2",
+                "related": "http://api.huispedia.nl/v2/properties/13014"
+            }
+        },
+        {
+            "type": "property",
+            "id": 13017,
+            "attributes": {
+                "street": "Oudezijds Kolk",
+                "houseNumber": 13,
+                "houseNumberExt": "O",
+                "houseNumberFull": "13-O",
+                "postcode": "1012AL",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.375919,
+                "longitude": 4.90107536,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 135,
+                "plotSize": null,
+                "volume": 464,
+                "buildYear": 1906,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012al/oudezijds-kolk/13-o",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000219575",
+                    "bagBuildingId": "0363100012182722",
+                    "bagObjectId": "0363010001011981"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/al/13-o/id_13017_1001691311345_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-04-19 11:05:03",
+                    "salePrice": 695000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012al/13/o",
+                "related": "http://api.huispedia.nl/v2/properties/13017"
+            }
+        },
+        {
+            "type": "property",
+            "id": 13144,
+            "attributes": {
+                "street": "Zeedijk",
+                "houseNumber": 97,
+                "houseNumberExt": "2",
+                "houseNumberFull": "97-2",
+                "postcode": "1012AT",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.374039,
+                "longitude": 4.90040541,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 50,
+                "plotSize": null,
+                "volume": 184,
+                "buildYear": 1881,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "D",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012at/zeedijk/97-2",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000337338",
+                    "bagBuildingId": "0363100012170935",
+                    "bagObjectId": "0363010000879347"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/at/97-2/id_13144_641691303487_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-05-15 11:00:02",
+                    "salePrice": 425000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012at/97/2",
+                "related": "http://api.huispedia.nl/v2/properties/13144"
+            }
+        },
+        {
+            "type": "property",
+            "id": 13497,
+            "attributes": {
+                "street": "Geldersekade",
+                "houseNumber": 18,
+                "houseNumberExt": "",
+                "houseNumberFull": "18",
+                "postcode": "1012BH",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.375851,
+                "longitude": 4.90173674,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 206,
+                "plotSize": 76,
+                "volume": 897,
+                "buildYear": 1641,
+                "houseType": "Woonhuis",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012bh/geldersekade/18",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000104831",
+                    "bagBuildingId": "0363100012182822",
+                    "bagObjectId": "0363010000642586"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/bh/18/id_13497_241698297077_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-10-03 10:45:04",
+                    "salePrice": 1150000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012bh/18",
+                "related": "http://api.huispedia.nl/v2/properties/13497"
+            }
+        },
+        {
+            "type": "property",
+            "id": 13727,
+            "attributes": {
+                "street": "Monnikenstraat",
+                "houseNumber": 23,
+                "houseNumberExt": "H",
+                "houseNumberFull": "23-H",
+                "postcode": "1012BP",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.373138,
+                "longitude": 4.8998723,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 26,
+                "plotSize": null,
+                "volume": 57,
+                "buildYear": 1906,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012bp/monnikenstraat/23-h",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000389368",
+                    "bagBuildingId": "0363100012177929",
+                    "bagObjectId": "0363010000746152"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/bp/23-h/id_13727_761691326117_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-22 11:25:02",
+                    "salePrice": 225000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012bp/23/h",
+                "related": "http://api.huispedia.nl/v2/properties/13727"
+            }
+        },
+        {
+            "type": "property",
+            "id": 14136,
+            "attributes": {
+                "street": "Spinhuissteeg",
+                "houseNumber": 16,
+                "houseNumberExt": "",
+                "houseNumberFull": "16",
+                "postcode": "1012CJ",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.370197,
+                "longitude": 4.8973937,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 101,
+                "plotSize": 20,
+                "volume": 335,
+                "buildYear": 1728,
+                "houseType": "Woonhuis",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012cj/spinhuissteeg/16",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000521211",
+                    "bagBuildingId": "0363100012171175",
+                    "bagObjectId": "0363010001038631"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/cj/16/id_14136_921695316891_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-09-21 04:44:02",
+                    "salePrice": 850000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012cj/16",
+                "related": "http://api.huispedia.nl/v2/properties/14136"
+            }
+        },
+        {
+            "type": "property",
+            "id": 15128,
+            "attributes": {
+                "street": "Oudezijds Voorburgwal",
+                "houseNumber": 43,
+                "houseNumberExt": "E",
+                "houseNumberFull": "43-E",
+                "postcode": "1012EJ",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.374466,
+                "longitude": 4.89948368,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 43,
+                "plotSize": null,
+                "volume": 120,
+                "buildYear": 1725,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "E",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012ej/oudezijds-voorburgwal/43-e",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200012084590",
+                    "bagBuildingId": "0363100012177980",
+                    "bagObjectId": "0363010012083409"
+                },
+                "image": {
+                    "href": "https://static.huispedia.nl/gsv-service/MTAxMkVKKzQzLUUrNTIuMzc0NDY2KzQuODk5NDgzNjgrcHJlbWl1bQ=="
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-16 12:27:03",
+                    "salePrice": 375000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012ej/43/e",
+                "related": "http://api.huispedia.nl/v2/properties/15128"
+            }
+        },
+        {
+            "type": "property",
+            "id": 15306,
+            "attributes": {
+                "street": "Oudezijds Voorburgwal",
+                "houseNumber": 153,
+                "houseNumberExt": "A",
+                "houseNumberFull": "153-A",
+                "postcode": "1012ES",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.372253,
+                "longitude": 4.89675426,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 273,
+                "plotSize": 158,
+                "volume": 1001,
+                "buildYear": 1773,
+                "houseType": "Woonhuis",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "F",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012es/oudezijds-voorburgwal/153-a",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200011210999",
+                    "bagBuildingId": "0363100012171246",
+                    "bagObjectId": "0363010011211141"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/es/153-a/id_15306_751698715273_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2023-10-30 11:52:02",
+                    "salePrice": 1485000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012es/153/a",
+                "related": "http://api.huispedia.nl/v2/properties/15306"
+            }
+        },
+        {
+            "type": "property",
+            "id": 15391,
+            "attributes": {
+                "street": "Oudezijds Voorburgwal",
+                "houseNumber": 217,
+                "houseNumberExt": "M",
+                "houseNumberFull": "217-M",
+                "postcode": "1012EX",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.37035,
+                "longitude": 4.894984,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 123,
+                "plotSize": null,
+                "volume": 394,
+                "buildYear": 1735,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012ex/oudezijds-voorburgwal/217-m",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000434651",
+                    "bagBuildingId": "0363100012168525",
+                    "bagObjectId": "0363010000776475"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/ex/217-m/id_15391_61700286536_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-01-27 01:18:02",
+                    "salePrice": 995000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012ex/217/m",
+                "related": "http://api.huispedia.nl/v2/properties/15391"
+            }
+        },
+        {
+            "type": "property",
+            "id": 16022,
+            "attributes": {
+                "street": "Heintje Hoekssteeg",
+                "houseNumber": 5,
+                "houseNumberExt": "M",
+                "houseNumberFull": "5-M",
+                "postcode": "1012GR",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.375462,
+                "longitude": 4.89868641,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 101,
+                "plotSize": null,
+                "volume": 334,
+                "buildYear": 1991,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012gr/heintje-hoekssteeg/5-m",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000421657",
+                    "bagBuildingId": "0363100012178811",
+                    "bagObjectId": "0363010000699992"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/gr/5-m/id_16022_201707227656_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-02-06 01:53:02",
+                    "salePrice": 650000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012gr/5/m",
+                "related": "http://api.huispedia.nl/v2/properties/16022"
+            }
+        },
+        {
+            "type": "property",
+            "id": 16603,
+            "attributes": {
+                "street": "Warmoesstraat",
+                "houseNumber": 51,
+                "houseNumberExt": "B",
+                "houseNumberFull": "51-B",
+                "postcode": "1012HW",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.375343,
+                "longitude": 4.89832067,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 86,
+                "plotSize": null,
+                "volume": 280,
+                "buildYear": 1748,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "D",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012hw/warmoesstraat/51-b",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000456651",
+                    "bagBuildingId": "0363100012178812",
+                    "bagObjectId": "0363010000954508"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/hw/51-b/id_16603_655613581709_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-02-28 09:10:02",
+                    "salePrice": 535000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012hw/51/b",
+                "related": "http://api.huispedia.nl/v2/properties/16603"
+            }
+        },
+        {
+            "type": "property",
+            "id": 16701,
+            "attributes": {
+                "street": "Warmoesstraat",
+                "houseNumber": 139,
+                "houseNumberExt": "B",
+                "houseNumberFull": "139-B",
+                "postcode": "1012JB",
+                "city": "Amsterdam",
+                "municipality": "Amsterdam",
+                "province": "Noord-Holland",
+                "latitude": 52.373707,
+                "longitude": 4.89597464,
+                "cbsNeighbourhoodId": 363,
+                "cbsDistrictId": 363,
+                "useSurface": 101,
+                "plotSize": null,
+                "volume": 293,
+                "buildYear": 1890,
+                "houseType": "Appartement",
+                "houseSubType": "Tussenwoning",
+                "energyLabel": "A",
+                "huispediaProfileUrl": "https://huispedia.nl/amsterdam/1012jb/warmoesstraat/139-b",
+                "kadasterData": {
+                    "bagNumberDesignationId": "0363200000521392",
+                    "bagBuildingId": "0363100012171952",
+                    "bagObjectId": "0363010001037201"
+                },
+                "image": {
+                    "href": "https://img.huispedia.nl/public/1012/jb/139-b/id_16701_961693421003_thumb.jpg"
+                },
+                "offer": {
+                    "status": "TE KOOP",
+                    "lastModifiedAt": "2024-03-22 09:52:02",
+                    "salePrice": 695000,
+                    "rentalPrice": null
+                }
+            },
+            "links": {
+                "self": "http://api.huispedia.nl/v2/properties/1012jb/139/b",
+                "related": "http://api.huispedia.nl/v2/properties/16701"
+            }
+        }
+    ],
+    "links": {
+        "self": "http://api.huispedia.nl/v2/properties?filter[status]=te%20koop&filter[city]=amsterdam&page[number]=1&page[size]=50",
+        "first": "http://api.huispedia.nl/v2/properties?filter[status]=te%20koop&filter[city]=amsterdam&page[number]=1&page[size]=50",
+        "previous": null,
+        "next": "http://api.huispedia.nl/v2/properties?filter[status]=te%20koop&filter[city]=amsterdam&page[number]=2&page[size]=50",
+        "last": "http://api.huispedia.nl/v2/properties?filter[status]=te%20koop&filter[city]=amsterdam&page[number]=29&page[size]=50"
+    },
+    "meta": {
+        "totalResults": 1434,
+        "totalPages": 29,
+        "currentPage": 1
+    }
+}
