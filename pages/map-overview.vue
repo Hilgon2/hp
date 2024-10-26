@@ -8,18 +8,21 @@ import { LMap, LTileLayer, LControlZoom } from '@vue-leaflet/vue-leaflet';
 const map = ref(null) as any;
 const center = ref<number[]>();
 const markers = ref<any[]>([]);
-const houses = ref<HpHouse[]>([]);
+const allHouses = ref<HpHouse[]>([]);
+const shownHouses = ref<HpHouse[]>([]);
 
 async function initialize() {
   await useFetch('/properties.json', {
     method: 'get',
     onResponse({ response }): void {
       const data: HpApiResponse<HpHouse> = response._data;
-      houses.value = data.data;
+      allHouses.value = data.data;
+      shownHouses.value = data.data;
       center.value = [
         data.data[0].attributes.latitude,
         data.data[0].attributes.longitude,
       ];
+
       for (const house of data.data) {
         markers.value.push({
           name: house.id,
@@ -31,6 +34,7 @@ async function initialize() {
               ${house.attributes.houseNumberFull},
               ${house.attributes.city}
             </b>
+            <br />
             ${house.attributes.plotSize || 'Onbekend'} m<sup>2</sup> &#x2022;
             ${house.attributes.buildYear}
           `,
@@ -60,15 +64,19 @@ function formatPrice(price: string) {
 
   return price.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1.');
 }
+
+function filterHouses(attributes, test) {
+  console.log(map.value.getBounds());
+}
 </script>
 
 <template>
   <section class="houses-container absolute bg-white px-6">
-    <!-- <h1 class="mt-4">{{ houses.length }} koopwoningen gevonden</h1> -->
+    <h1 class="mt-4">{{ shownHouses.length }} koopwoningen gevonden</h1>
     <hr class="mb-4" />
     <div class="flex flex-col">
       <article
-        v-for="house in houses"
+        v-for="house in shownHouses"
         :key="house.id"
         class="mb-10 rounded-md house"
       >
@@ -104,6 +112,7 @@ function formatPrice(price: string) {
       :useGlobalLeaflet="true"
       :options="{ zoomControl: false }"
       @ready="onMapReady"
+      @update:zoom="filterHouses"
     >
       <LTileLayer
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
