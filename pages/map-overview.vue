@@ -133,6 +133,12 @@ function filterHouses(zoom) {
   z-index: 999;
   max-height: calc(100vh - 60px);
   margin-left: -1.5rem;
+
+  @include responsive(small) {
+    h1 {
+      display: none;
+    }
+  }
 }
 
 .house {

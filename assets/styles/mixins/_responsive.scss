@@ -1,23 +1,15 @@
-$mobile-landscape: 568px;
-$tablet: 768px;
-$desktop: 1024px;
-
-$breakpoints: (
-  "small": (
-    min-width: $mobile-landscape,
-  ),
-  "medium": (
-    min-width: $tablet,
-  ),
-  "large": (
-    min-width: $desktop,
-  ),
-);
-
 @mixin responsive($size) {
-  $query: map-get($breakpoints, $size);
-
-  @media #{$query} {
-    @content;
+  @if $size == small {
+    @media (max-width: 568px) {
+      @content;
+    }
+  } @else if $size == medium {
+    @media (max-width: 900px) {
+      @content;
+    }
+  } @else if $size == large {
+    @media (max-width: 1200px) {
+      @content;
+    }
   }
 }
